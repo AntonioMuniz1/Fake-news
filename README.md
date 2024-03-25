@@ -1,7 +1,3 @@
-Introduction:
-In the age of information overload, distinguishing between genuine news and fake news has become increasingly challenging. 
-To tackle this issue, we present ScrappyTruth, an innovative GitHub project aimed at combating misinformation. 
-ScrappyTruth integrates web scraping techniques, data preprocessing methods, and neural network algorithms to identify and classify fake news articles accurately.
 
 1. Web Scraping:
 ScrappyTruth begins its journey by scraping data from various online sources, including news websites, social media platforms, and forums.
